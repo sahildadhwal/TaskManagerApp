@@ -19,8 +19,11 @@ The Task Manager app is a simple and intuitive to-do list application built usin
 ## Demo
 
 ![Task Manager Demo](demo/TaskManagerAppDemo.mp4)
-*Demo video of me showcaseing app functionality*
 
+
+![](https://github.com/sahildadhwal/iOSTaskManagerApp/tree/main/demo/TaskManagerAppDemo.gif)
+*Demo video of me showcaseing app functionality*
+![](https://github.com/sahildadhwal/iOSTaskManagerApp/tree/main/demo/TaskManagerAppDemo.mp4)
 
 ## Technologies Used
 
