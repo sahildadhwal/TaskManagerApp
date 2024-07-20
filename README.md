@@ -1,5 +1,18 @@
 # iOS App: Task Manager
 
+## Demo
+
+![Task Manager Demo](/demo/TaskManagerAppDemo.gif)
+
+*Demo video of me showcaseing app functionality*
+
+## Technologies Used
+
+- **SwiftUI**: For building the user interface.
+- **Combine Framework**: For managing state and asynchronous data.
+- **Xcode**: IDE for development.
+
+
 ## Purpose
 
 This project was created to refamiliarize myself with Swift and Xcode, particularly using SwiftUI for building user interfaces. It serves as a practical exercise to enhance my skills in iOS development by implementing a simple and functional task management application.
@@ -15,17 +28,3 @@ The Task Manager app is a simple and intuitive to-do list application built usin
 - **Prioritize Tasks**: Tasks can be prioritized with color-coded labels (Red for High, Yellow for Medium, Green for Low).
 - **Delete Tasks**: Users can delete tasks by swiping left on the task entry.
 - **User Interface**: A clean and modern UI built with SwiftUI, following the latest design guidelines.
-
-## Demo
-
-![Task Manager Demo](/demo/TaskManagerAppDemo.gif)
-
-*Demo video of me showcaseing app functionality*
-
-## Technologies Used
-
-- **SwiftUI**: For building the user interface.
-- **Combine Framework**: For managing state and asynchronous data.
-- **Xcode**: IDE for development.
-
-
