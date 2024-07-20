@@ -19,15 +19,8 @@ The Task Manager app is a simple and intuitive to-do list application built usin
 ## Demo
 
 ![Task Manager Demo](/demo/TaskManagerAppDemo.gif)
+
 *Demo video of me showcaseing app functionality*
-
-- **User Interface**: A clean and modern UI built with SwiftUI, following the latest design guidelines.
-- **User Interface**: A clean and modern UI built with SwiftUI, following the latest design guidelines.
- 
-- **User Interface**: A clean and modern UI built with SwiftUI, following the latest design guidelines.
-
-
-![](https://github.com/sahildadhwal/iOSTaskManagerApp/tree/main/demo/TaskManagerAppDemo.gif)
 
 ## Technologies Used
 
