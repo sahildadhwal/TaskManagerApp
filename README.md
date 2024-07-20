@@ -1,9 +1,9 @@
 # iOS App Demos: 
 
-## [1. Task Manager](https://github.com/sahildadhwal/iOSTaskManagerApp/tree/main/TaskManager)
+## [1) Task Manager](https://github.com/sahildadhwal/iOSTaskManagerApp/tree/main/TaskManager)
 
 
-![Task Manager Demo](/demo/TaskManagerAppDemo.gif)
+![Task Manager Demo](/TaskManager/demo/TaskManagerAppDemo.gif)
 
 ## Technologies Used
 
